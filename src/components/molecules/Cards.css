@@ -1,0 +1,70 @@
+#cards_box{ 
+   display: flex;
+   text-align: center;
+   font-size: 20px;
+   flex-wrap: wrap;
+   justify-content: center;
+   border: 1px black solid;
+   background-color: gray;
+   margin: 5px ;
+   border-radius: 5%;
+}
+#cards_box2{ 
+    width: 100%;
+    display: flex;
+   text-align: center;
+   font-size: 20px;
+   flex-wrap: wrap;
+   justify-content: center;
+   border: 1px black solid;
+   background-color: gray;
+   margin: 5px ;
+   border-radius: 5%;
+ }
+ #cards_box3{
+   font-size: 20px;
+   width: 80%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 1px;
+  border: 1px black solid;
+   background-color: gray;
+   border-radius: 25px;
+}
+#text{
+   margin-left:30px;
+}
+#image{
+   width: 35%;
+   margin-right: 30px;
+}
+#cards_box4{
+   display: flex;
+   width: 60%;
+   height: 100%;
+   text-align: center;
+   flex-direction: row;
+   border: 1px black solid;
+   background-color: gray;
+}
+#cards_box_aux{
+   width: 40%;
+}
+#cards_box_aux2{
+   text-align: center;
+   width: 30%;
+   margin-left: 20px;
+}
+#cards_box_aux3{
+   width: 40%;
+}
+#button, Text{
+   display: flex;
+   background-color: black;
+   border: 1px white solid;
+
+}
+
+
+
